@@ -2,11 +2,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"); 
 
 :root { 
-  --cor-destaque: #000000; 
+  --cor-destaque: #bbff00; 
   --cor-gradiente-preto: linear-gradient( 
     113deg, 
     hwb(0 22% 76% / 0.753) 0%, 
-    #0ab6eb 44.96%, 
+    #3e4649 44.96%, 
     #b2b8be 100% 
   ); 
 } 
